@@ -1,3 +1,4 @@
+// Link to challenge: https://www.codewars.com/kata/554e4a2f232cdd87d9000038
 #include <stdlib.h>
 #include <stdio.h>
 
